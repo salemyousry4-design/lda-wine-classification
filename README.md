@@ -34,8 +34,8 @@ Unlike PCA, which keeps the directions of largest variance, LDA uses the labels 
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/salemyousry4-design/LDA-For-larging-Data.git
-cd LDA-For-larging-Data
+git clone https://github.com/salemyousry4-design/lda-wine-classification.git
+cd lda-wine-classification
 pip install -r requirements.txt
 
 streamlit run app.py     # interactive dashboard
